@@ -128,11 +128,11 @@ Record the actual results from your completed model comparison before publishing
 
 | Model | Validation accuracy | Validation loss |
 |---|---:|---:|
-| Baseline CNN | [Enter result] | [Enter result] |
-| Augmented CNN | [Enter result] | [Enter result] |
-| Regularized CNN | [Enter result] | [Enter result] |
-| Best CNN checkpoint | [Enter result] | [Enter result] |
-| MobileNetV2 | [Enter result] | [Enter result] |
+| Baseline CNN | 71.0% | 1.8487 |
+| Augmented CNN | 72.5% | 0.5609  |
+| Regularized CNN | 67.0% | 0.6086 |
+| Best CNN checkpoint | 64.0% | 0.6114  |
+| MobileNetV2 | 99.0% | 0.0328|
 
 The values should be copied from the final evaluation output or saved model comparison CSV. Do not substitute training accuracy for validation accuracy.
 
@@ -193,7 +193,7 @@ mini_project2/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/soham-can/pawvision-cats-vs-dogs
 cd mini_project2
 ```
 
