@@ -194,7 +194,7 @@ mini_project2/
 
 ```bash
 git clone https://github.com/soham-can/pawvision-cats-vs-dogs
-cd mini_project2
+cd pawvision-cats-vs-dogs
 ```
 
 ### 2. Create a virtual environment
