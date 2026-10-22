@@ -1,0 +1,2 @@
+experiment,validation_accuracy,validation_loss,best_epoch,best_val_loss
+baseline_cnn,0.7099999785423279,0.7167263627052307,1,0.8337956070899963
